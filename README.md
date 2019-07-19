@@ -1,6 +1,7 @@
 # CMD SNAKE
-## Version 2.0.0
-## Changelog v2.0.0
-Bugs fix
-Menu created
-Graphic updated
+## Version 3.0.0
+## Changelog v3.0.0
+Transition added
+Clock added
+Music fixed
+Music changed
